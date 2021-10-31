@@ -21,3 +21,5 @@
 [Cybrary](https://www.cybrary.it/glossary/)
 
 [BSc (Honours) Cyber Security](http://www.open.ac.uk/courses/computing-it/degrees/bsc-cyber-security-r60)
+
+[OWASP Top 10 vulnerabilities](https://owasp.org/www-project-top-ten/)
