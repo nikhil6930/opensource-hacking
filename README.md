@@ -1,12 +1,23 @@
 # opensource-hacking
-https://portswigger.net/
-https://huntr.dev/dojo
-wwww.freecodecamp.com
-https://securecode.wiki/
-http://www.securitytube.net
-https://opensource.google
-https://www.cyberaces.org/courses.html
-https://www.greatlearning.in/academy/
-https://zeltser.com/cheat-sheets/
-https://www.cybrary.it/glossary/
-http://www.open.ac.uk/courses/computing-it/degrees/bsc-cyber-security-r60
+
+[Portswigger](https://portswigger.net/)
+
+[Open source software bugbounty](https://huntr.dev/dojo)
+
+[Free codecamPortswiggerp](wwww.freecodecamPortswiggerp.com)
+
+[Secure Code Wiki By Payatu](https://securecode.wiki/)
+
+[SecurityTube](http://www.securitytube.net)
+
+[Google Open Source](https://opensource.google)
+
+[SANS Cyber Aces Online Courses](https://www.cyberaces.org/courses.html)
+
+[Learn the most in-demand skills with free online courses & certificates](https://www.greatlearning.in/academy/)
+
+[IT and Information Security Cheat Sheets](https://zeltser.com/cheat-sheets/)
+
+[Cybrary](https://www.cybrary.it/glossary/)
+
+[BSc (Honours) Cyber Security](http://www.open.ac.uk/courses/computing-it/degrees/bsc-cyber-security-r60)
