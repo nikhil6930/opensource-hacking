@@ -26,3 +26,5 @@
 
 [OWASP ZAP Zed Attack Proxy - tool](https://owasp.org/www-project-zap/)
 https://andrewedstrom.com/hacksplaining
+
+https://github.com/SpiderLabs/CryptOMG
