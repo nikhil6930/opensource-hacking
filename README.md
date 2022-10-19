@@ -26,3 +26,6 @@
 
 [OWASP ZAP Zed Attack Proxy - tool](https://owasp.org/www-project-zap/)
 https://andrewedstrom.com/hacksplaining
+
+
+https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material
